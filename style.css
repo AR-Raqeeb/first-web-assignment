@@ -20,6 +20,7 @@ section{
 .first-section img{
     height: 70%;
     width: 70%;
+    padding-bottom: 50px;
 }
 .hire-me-button{
     text-decoration: none;
@@ -31,12 +32,14 @@ section{
 }
 .about-section{
     height: 500px;
+    
 }
 .second-section{
     width: 35%;
     float:left;
     margin-left: 5%;
     padding-left: 2%;
+    padding-bottom: 50px;
 }
 .second-section img{
     height: 70%;
@@ -61,6 +64,7 @@ section{
 }
 .latest-project-section{
     height: 500px;
+    padding-bottom: 50px;
 }
 .third-section-block{
     width: 23%;
@@ -95,6 +99,8 @@ section{
     text-align: center;
     color: white;
     font-family: 'Bebas Neue', cursive;
+    padding-bottom: 50px;
+    
 }
 .work-inquiry{
     position: absolute;
@@ -116,6 +122,6 @@ section{
 }
 
 .footer-class{
-    position: relative;
     text-align: center;
+    height: 20px;
 }
