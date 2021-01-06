@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 48px;
+}
+.name-color{
+    color: yellowgreen;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.first-section{
+    width: 35%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-section img{
+    height: 70%;
+    width: 70%;
+}
+.hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, blue);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.about-section{
+    height: 500px;
+}
+.second-section{
+    width: 35%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.second-section img{
+    height: 70%;
+    width: 70%;
+}
+.cv-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, blue);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.word-link{
+    text-decoration: none;
+}
+#sec-3-title{
+    text-align: center;
+}
+.title-word-color{
+    color: red;
+}
