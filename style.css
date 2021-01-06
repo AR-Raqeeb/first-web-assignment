@@ -82,3 +82,40 @@ section{
 #sec3-img3{
     width: 100%;
 }
+#bottom-pic{
+    width: 900px;
+    height: 190px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+.last-section{
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+.work-inquiry{
+    position: absolute;
+    top: 0px;
+    left: 20%;
+}
+.work-inquiry a span{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(37, 223, 108), red);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    position: absolute;
+    top: 80px;
+    right: -430px;
+    
+
+}
+
+.footer-class{
+    position: relative;
+    text-align: center;
+}
